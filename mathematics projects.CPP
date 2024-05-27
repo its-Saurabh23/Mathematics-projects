@@ -113,7 +113,7 @@ switch(num)
 	break;
 	}
 
-	case 6:   //.PRINCIPLE Rs. (SI)
+	case 6:   // PRINCIPLE Rs. (SI)
 		{
 			cout<<"ENTER THE PRINCIPLE Rs. (SI)"<<endl;
 			cin>>pr;
@@ -126,13 +126,13 @@ switch(num)
 	    break;
 		}
 
-  case 7:
+        case 7:
 	{
 		cout<<"EXIT"<<endl;
 		break;
 	}
 	default:
-		{
+	    {
 			cout<<"INVALID CHOICE !!!!"<<endl<< "PLEASE SELECT THE NUMBER BETWEEN 1 TO 5";
 	    }
 }
